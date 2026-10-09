@@ -1,0 +1,5 @@
+AdinLingua - Penerjemah Offline
+1. Ekstrak zip, buka index.html di browser (tanpa internet, tanpa install).
+2. Cari bahasa di kotak "Cari bahasa" (110+ bahasa dunia & daerah).
+3. Prioritas: Sunda dan Inggris (arah bebas: Indonesia, Sunda, Inggris saling menerjemahkan, 250+ entri). Terjemahan bawaan: Indonesia, Inggris, Jawa, Sunda, Melayu, Spanyol, Arab, Mandarin, Jepang (frasa sehari-hari; Jawa, Sunda, Inggris punya 60+ frasa).
+4. Tambah bahasa/frasa: pakai "Tambah paket bahasa (JSON)" atau edit data/phrases.js.
